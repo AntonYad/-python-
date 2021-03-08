@@ -11,8 +11,8 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}</ProjectGuid>
-    <RootNamespace>字符串排序</RootNamespace>
+    <ProjectGuid>{72BD265D-6E82-4BA9-9477-89DC15B85422}</ProjectGuid>
+    <RootNamespace>单个节点删除</RootNamespace>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

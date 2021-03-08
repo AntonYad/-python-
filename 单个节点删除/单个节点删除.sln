@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "字符串排序", "字符串排序\字符串排序.vcxproj", "{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单个节点删除", "单个节点删除\单个节点删除.vcxproj", "{72BD265D-6E82-4BA9-9477-89DC15B85422}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,10 +11,10 @@ Global
 		Release|Win32 = Release|Win32
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}.Debug|Win32.ActiveCfg = Debug|Win32
-		{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}.Debug|Win32.Build.0 = Debug|Win32
-		{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}.Release|Win32.ActiveCfg = Release|Win32
-		{DF6C0F05-343F-4A47-9CEF-2016ECB47ABE}.Release|Win32.Build.0 = Release|Win32
+		{72BD265D-6E82-4BA9-9477-89DC15B85422}.Debug|Win32.ActiveCfg = Debug|Win32
+		{72BD265D-6E82-4BA9-9477-89DC15B85422}.Debug|Win32.Build.0 = Debug|Win32
+		{72BD265D-6E82-4BA9-9477-89DC15B85422}.Release|Win32.ActiveCfg = Release|Win32
+		{72BD265D-6E82-4BA9-9477-89DC15B85422}.Release|Win32.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
